@@ -1,3 +1,4 @@
 # Random-Joke
-# The mini project created with ASYNC JavaScript.
-# With AXIOS we retrieve the data from Dad jokes API and we add them to a UL list
+API used: https://icanhazdadjoke.com
+# Description
+We get the jokes from the API and we create a list with the jokes. In order to show a new joke, the user should click the button.
